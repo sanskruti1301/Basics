@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664429766 source:c:\users\dell\3d objects\fcfs\main.c
+	<stdio.h>
+	<stdlib.h>
+

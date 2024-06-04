@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665034906 source:c:\users\dell\3d objects\sjf\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
